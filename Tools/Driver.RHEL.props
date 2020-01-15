@@ -54,10 +54,10 @@ RHEL inf substitutions and versioning used by all drivers.
 
   <ItemGroup>
     <Substitution Include="INX_COPYRIGHT_1">
-      <ReplaceWith>Copyright (c) $(RHEL_COPYRIGHT_YEARS) Secunet AG</ReplaceWith>
+      <ReplaceWith>Copyright (c) $(RHEL_COPYRIGHT_YEARS) Red Hat Inc.</ReplaceWith>
     </Substitution>
     <Substitution Include="INX_COPYRIGHT_2">
-      <ReplaceWith></ReplaceWith>
+      <ReplaceWith>Copyright (c) 2020 Secunet AG</ReplaceWith>
     </Substitution>
     <Substitution Include="INX_COMPANY">
       <ReplaceWith>Secunet AG</ReplaceWith>
