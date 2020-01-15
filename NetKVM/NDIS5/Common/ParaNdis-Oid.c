@@ -33,7 +33,7 @@
 #endif
 #include <sal.h>
 
-static const char VendorName[] = "Red Hat";
+static const char VendorName[] = "Secunet";
 
 static UCHAR FORCEINLINE hexdigit(UCHAR nibble)
 {

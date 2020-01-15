@@ -33,7 +33,7 @@
 #include "ParaNdis-Oid.tmh"
 #endif
 
-static const char VendorName[] = "Red Hat";
+static const char VendorName[] = "Secunet";
 
 static UCHAR FORCEINLINE hexdigit(UCHAR nibble)
 {
